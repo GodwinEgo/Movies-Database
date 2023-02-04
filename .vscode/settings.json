@@ -1,0 +1,23 @@
+{
+  "cSpell.ignoreWords": [
+    "RMDBLogo",
+    "TMDBLogo",
+    "TMDBLogoImg",
+    "darkgrey",
+    "rmdb",
+    "tmdb",
+    "webfonts"
+  ],
+  "workbench.editor.labelFormat": "default",
+  "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "terminal.integrated.macOptionClickForcesSelection": true,
+  "peacock.lightForegroundColor": "#fff",
+  "cSpell.autoFormatConfigFile": true,
+  "editor.suggest.showInlineDetails": false,
+  "workbench.settings.editor": "ui",
+  "workbench.settings.openDefaultKeybindings": false,
+  "editor.formatOnSave": true
+}
